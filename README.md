@@ -7,11 +7,11 @@
 
 👀 Software Engineer by profession | Full Stack Web Developer | Mobile Apps Enthusiast | Educator
 
-🌱 I’m currently learning Elixir.
+🌱 I’m currently learning **Elixir**.
 
-💞️ I’m looking to collaborate on **anything** that helps people! 
+💞️ I’m looking to collaborate on ***anything*** that helps people! 
 
-📫 Reach me here: mail@shivangdave.com
+📫 mail@shivangdave.com
 
 ## 💻 Projects:
 
