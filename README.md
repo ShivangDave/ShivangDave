@@ -5,7 +5,7 @@
 </p>
 
 
-👀 Software Engineer by profession | Full Stack Web Developer | Mobile Apps Enthusiast | Educator
+👀 Software Engineer | Full Stack Web Developer | Mobile Apps Enthusiast | Educator
 
 🌱 I’m currently learning **Elixir**.
 
