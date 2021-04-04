@@ -1,4 +1,10 @@
 ## 👋 Hi, I’m Shivang! (@ShivangDave)
+
+<p align="center">
+   <img src="https://media0.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" />
+</p>
+
+
 👀 Software Engineer by profession | Full Stack Web Developer | Mobile Apps Enthusiast | Educator
 
 🌱 I’m currently learning Elixir.
