@@ -2,6 +2,9 @@
 
 <p align="center">
    <img src="https://media0.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" />
+   <p align="center">
+      <hr width="50%" />
+   </p>
 </p>
 
 
