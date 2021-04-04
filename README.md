@@ -57,3 +57,7 @@
 [Animated ScrollView]: https://github.com/ShivangDave/AnimatedScrollView
 [Automatic Backup Wifi Camera]: https://github.com/ShivangDave/Automatic-Backup-WiFi-Camera
 [Blog Mobile App]: https://github.com/ShivangDave/Blog-Mobile-App
+
+<p align="center">
+   <a href="https://shivangdave.com" target="_blank"> shivangdave.com </a> | <a href="https://linkedin.com/in/dshivang" target="_blank"> LinkedIn </a> | <a href="https://twitter.com/@__Shivang__" target="_blank"> Twitter </a>
+</p>
