@@ -38,6 +38,7 @@
 - [ScrollView Navigation] (Swift)
 - [Equation App] (Swift)
 
+[Portfolio v2]: https://github.com/ShivangDave/portfolio-site
 [E2EE Photoapp API]: https://github.com/ShivangDave/photoapp-api
 [Shopping List]: https://github.com/ShivangDave/my-shopping-list
 [Portfolio v3]: https://github.com/ShivangDave/portfolio-site-v3
