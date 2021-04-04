@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Shivang! (@ShivangDave)
+## 👋 Hello, World!
 
 <p align="center">
    <img src="https://media0.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" />
@@ -59,5 +59,5 @@
 [Blog Mobile App]: https://github.com/ShivangDave/Blog-Mobile-App
 
 <p align="center">
-   <a href="https://shivangdave.com" target="_blank"> shivangdave.com </a> | <a href="https://linkedin.com/in/dshivang" target="_blank"> LinkedIn </a> | <a href="https://twitter.com/@__Shivang__" target="_blank"> Twitter </a>
+   <a href="https://shivangdave.com" target="_blank"> Website </a> | <a href="https://linkedin.com/in/dshivang" target="_blank"> LinkedIn </a> | <a href="https://twitter.com/@__Shivang__" target="_blank"> Twitter </a>
 </p>
