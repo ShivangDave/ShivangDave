@@ -13,9 +13,9 @@
 
 📫 mail@shivangdave.com
 
-## 💻 Projects:
+## 💻 Projects
 
-🌍 Web Apps
+🌍 **Web Apps**
 - [E2EE Photoapp API] (Rails + Rspec + Docker + Travis CI + Heroku CD)
 - [Shopping List] (React + Redux + Netlify)
 - [Portfolio v3] (React)
@@ -27,11 +27,11 @@
 - [NodeJS Tutorials] (Credits to: The NetNinja)
 - [Automatic Backup Wifi Camera Backend] (NodeJS + Express + OpenCV)
 
-🤖 ML / AI:
+🤖 **ML / AI**
 - [Face detection based on Fixed Point Calculations] (Python)
 - [K-means Clustering] (Python)
 
-📱 iOS / React Native:
+📱 **iOS / React Native**
 - [Blog Mobile App] (React Native)
 - [Automatic Backup Wifi Camera] (Swift)
 - [Animated ScrollView] (Swift)
