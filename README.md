@@ -27,11 +27,11 @@
 - [NodeJS Tutorials] (Credits to: The NetNinja)
 - [Automatic Backup Wifi Camera Backend] (NodeJS + Express + OpenCV)
 
-## 🤖 ML / AI:
+🤖 ML / AI:
 - [Face detection based on Fixed Point Calculations] (Python)
 - [K-means Clustering] (Python)
 
-## 📱 iOS / React Native:
+📱 iOS / React Native:
 - [Blog Mobile App] (React Native)
 - [Automatic Backup Wifi Camera] (Swift)
 - [Animated ScrollView] (Swift)
