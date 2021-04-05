@@ -12,10 +12,10 @@
 
 📫 mail@shivangdave.com
 
-## 💻 Projects
+## 💻 Things I've worked on / Currently working
 
-📚 **Try, Learn & Share**
-- [Programming with Elixir]
+📚 **Learn & Share**
+- [Programming with Elixir] (Huge thanks: [Programming Elixir 1.6])
 - [Mini Lesson: Intro to Virtualization]
 - [Mini Lesson: OOJS]
 - [NodeJS Tutorials] (Credits to: The NetNinja)
@@ -45,6 +45,7 @@
 
 
 [Programming with Elixir]: https://github.com/ShivangDave/elixir
+[Programming Elixir 1.6]: https://pragprog.com/titles/elixir16/programming-elixir-1-6/
 [Mini Lesson: Intro to Virtualization]: https://github.com/ShivangDave/intro-to-virtualization
 [Mini Lesson: OOJS]: https://github.com/ShivangDave/oojs
 [NodeJS Tutorials]: https://github.com/ShivangDave/NodeJS-Tutorials
