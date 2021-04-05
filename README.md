@@ -14,6 +14,13 @@
 
 ## 💻 Projects
 
+📚 **Try, Learn & Share**
+- [Programming with Elixir]
+- [Mini Lesson: Intro to Virtualization]
+- [Mini Lesson: OOJS]
+- [NodeJS Tutorials] (Credits to: The NetNinja)
+- [Learning Data Structures with Python]
+
 🌍 **Web Apps**
 - [E2EE Photoapp API] (Rails + Rspec + Docker + Travis CI + Heroku CD)
 - [Shopping List] (React + Redux + Netlify)
@@ -23,7 +30,6 @@
 - [Instagram API Wrapper] (Rails)
 - [Blog API] (MongoDB + ExpressJS + NodeJS)
 - [Portfolio v1 + Blog] (React + Redux + Rails)
-- [NodeJS Tutorials] (Credits to: The NetNinja)
 - [Automatic Backup Wifi Camera Backend] (NodeJS + Express + OpenCV)
 
 🤖 **ML / AI**
@@ -37,6 +43,13 @@
 - [ScrollView Navigation] (Swift)
 - [Equation App] (Swift)
 
+
+[Programming with Elixir]: https://github.com/ShivangDave/elixir
+[Mini Lesson: Intro to Virtualization]: https://github.com/ShivangDave/intro-to-virtualization
+[Mini Lesson: OOJS]: https://github.com/ShivangDave/oojs
+[NodeJS Tutorials]: https://github.com/ShivangDave/NodeJS-Tutorials
+[Learning Data Structures with Python]: https://github.com/ShivangDave/Python-Programs
+
 [Portfolio v2]: https://github.com/ShivangDave/portfolio-site
 [E2EE Photoapp API]: https://github.com/ShivangDave/photoapp-api
 [Shopping List]: https://github.com/ShivangDave/my-shopping-list
@@ -45,7 +58,6 @@
 [Instagram API Wrapper]: https://github.com/ShivangDave/instagram-api-wrapper
 [Blog API]: https://github.com/ShivangDave/blog-api-mern
 [Portfolio v1 + Blog]: https://github.com/ShivangDave/Blog-Web-App
-[NodeJS Tutorials]: https://github.com/ShivangDave/NodeJS-Tutorials
 [Automatic Backup Wifi Camera Backend]: https://github.com/ShivangDave/Automatic-backup-wifi-camera-backend
 
 [K-means Clustering]: https://github.com/ShivangDave/Kmeans-Clustering
