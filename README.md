@@ -44,7 +44,7 @@
 - [Equation App] (Swift)
 
 
-[Programming with Elixir]: https://github.com/ShivangDave/elixir
+[Programming with Elixir]: https://shivangdave.github.io/elixir/
 [Programming Elixir 1.6]: https://pragprog.com/titles/elixir16/programming-elixir-1-6/
 [Mini Lesson: Intro to Virtualization]: https://github.com/ShivangDave/intro-to-virtualization
 [Mini Lesson: OOJS]: https://github.com/ShivangDave/oojs
