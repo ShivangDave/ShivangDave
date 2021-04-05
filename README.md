@@ -6,7 +6,7 @@
 
 👀 Software Engineer | Full Stack Web Developer | Mobile Apps Enthusiast | Educator
 
-🌱 I’m currently learning **Elixir**.
+🌱 I’m currently learning **[Programming with Elixir]**.
 
 💞️ I’m looking to collaborate on ***anything*** that helps people! 
 
@@ -15,10 +15,10 @@
 ## 💻 Things I've worked on || Currently working on
 
 📚 **Learn & Share**
-- [Programming with Elixir] (Huge thanks: [Programming Elixir 1.6])
+- [Programming with Elixir] (Huge thanks to: [Programming Elixir 1.6])
 - [Mini Lesson: Intro to Virtualization]
 - [Mini Lesson: OOJS]
-- [NodeJS Tutorials] (Credits to: The NetNinja)
+- [NodeJS Tutorials] (Props to: The NetNinja)
 - [Learning Data Structures with Python]
 
 🌍 **Web Apps**
