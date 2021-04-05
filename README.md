@@ -12,7 +12,7 @@
 
 📫 mail@shivangdave.com
 
-## 💻 Things I've worked on / Currently working
+## 💻 Things I've worked on || Currently working on
 
 📚 **Learn & Share**
 - [Programming with Elixir] (Huge thanks: [Programming Elixir 1.6])
