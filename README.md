@@ -15,6 +15,7 @@
 ## 💻 Things I've worked on || Currently working on
 
 📚 **Learn & Share**
+- AWS Cloud Practitioner: ***Soon***
 - [Programming with Elixir] (Huge thanks to: [Programming Elixir 1.6])
 - [Mini Lesson: Intro to Virtualization]
 - [Mini Lesson: OOJS]
