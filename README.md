@@ -15,7 +15,9 @@
 ## 💻 Things I've worked on || Currently working on
 
 🔜 **Coming soon (no ETA)**
-- How to upload & host images? React + Rails API
+- Quick guide: Host your Full Stack Apps. (Heroku + Netlify)
+- Quick guide: How to upload & host images? (React + Rails API)
+   - Sub guide: Connect ActiveStorage to Cloud Services!
 - AWS Cloud Practitioner Notes
 
 📚 **Learn & Share**
