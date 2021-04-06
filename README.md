@@ -14,8 +14,11 @@
 
 ## 💻 Things I've worked on || Currently working on
 
+🔜 **Coming soon (no ETA)**
+- How to upload & host images? React + Rails API
+- AWS Cloud Practitioner Notes
+
 📚 **Learn & Share**
-- AWS Cloud Practitioner: ***Soon***
 - [Programming with Elixir] (Huge thanks to: [Programming Elixir 1.6])
 - [Mini Lesson: Intro to Virtualization]
 - [Mini Lesson: OOJS]
