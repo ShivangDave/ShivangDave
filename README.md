@@ -82,9 +82,9 @@
 [Hosting React App on Netlify]: https://github.com/ShivangDave/front-end-hosting
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=shivangdave&show_icons=true&theme=tokyonight" />
+   <a href="https://shivangdave.com" target="_blank"> Website </a> | <a href="https://linkedin.com/in/dshivang" target="_blank"> LinkedIn </a> | <a href="https://twitter.com/@__Shivang__" target="_blank"> Twitter </a>
 </p>
 
 <p align="center">
-   <a href="https://shivangdave.com" target="_blank"> Website </a> | <a href="https://linkedin.com/in/dshivang" target="_blank"> LinkedIn </a> | <a href="https://twitter.com/@__Shivang__" target="_blank"> Twitter </a>
+   <img src="https://github-readme-stats.vercel.app/api?username=shivangdave&show_icons=true&theme=tokyonight" />
 </p>
