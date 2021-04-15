@@ -18,6 +18,7 @@
 - [Programming with Elixir] (Huge thanks to: [Programming Elixir 1.6])
 
 🔜 **Coming soon (no ETA)**
+
 ~~- Quick guide: Host your Full Stack Apps. (Heroku + Netlify)~~
 - Quick guide: How to upload & host images? (React + Rails API)
    - Sub guide: Connect ActiveStorage to Cloud Services!
