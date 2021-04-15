@@ -16,15 +16,17 @@
 
 🔥 **Current**
 - [Programming with Elixir] (Huge thanks to: [Programming Elixir 1.6])
-- [Hosting React App on Netlify]
 
 🔜 **Coming soon (no ETA)**
-- Quick guide: Host your Full Stack Apps. (Heroku + Netlify)
+~~- Quick guide: Host your Full Stack Apps. (Heroku + Netlify)~~
 - Quick guide: How to upload & host images? (React + Rails API)
    - Sub guide: Connect ActiveStorage to Cloud Services!
+- E-commerce prrof of concept!
 - AWS Cloud Practitioner Notes
 
 📚 **Learn & Share**
+- [Hosting React App on Netlify] 🆕
+- [Hosting Rails API on Heroku] 🆕
 - [Mini Lesson: Intro to Virtualization]
 - [Mini Lesson: OOJS]
 - [NodeJS Tutorials] (Props to: The NetNinja)
@@ -82,8 +84,9 @@
 [Automatic Backup Wifi Camera]: https://github.com/ShivangDave/Automatic-Backup-WiFi-Camera
 [Blog Mobile App]: https://github.com/ShivangDave/Blog-Mobile-App
 
-[Hosting React App on Netlify]: https://github.com/ShivangDave/front-end-hosting
 [JWT Authentication integration with Rails API]: https://github.com/ShivangDave/rails-api-auth-boilerplate
+[Hosting React App on Netlify]: https://github.com/ShivangDave/front-end-hosting
+[Hosting Rails API on Heroku]: https://github.com/ShivangDave/rails-backend-hosting
 
 <p align="center">
    <a href="https://shivangdave.com" target="_blank"> Website </a> | <a href="https://linkedin.com/in/dshivang" target="_blank"> LinkedIn </a> | <a href="https://twitter.com/@__Shivang__" target="_blank"> Twitter </a>
