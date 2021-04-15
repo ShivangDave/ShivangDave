@@ -26,15 +26,15 @@
 - AWS Cloud Practitioner Notes
 
 📚 **Learn & Share**
-- [Hosting React App on Netlify] 🆕
-- [Hosting Rails API on Heroku] 🆕
+- ⭐️🆕 [Hosting React App on Netlify] 
+- ⭐️🆕 [Hosting Rails API on Heroku]
 - [Mini Lesson: Intro to Virtualization]
 - [Mini Lesson: OOJS]
 - [NodeJS Tutorials] (Props to: The NetNinja)
 - [Learning Data Structures with Python]
 
 🍽 **Boiler Plate**
-- [JWT Authentication integration with Rails API]
+- ⭐️🆕 [JWT Authentication integration with Rails API] 
 
 🌍 **Web Apps**
 - [E2EE Photoapp API] (Rails + Rspec + Docker + Travis CI + Heroku CD)
