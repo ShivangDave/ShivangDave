@@ -19,7 +19,7 @@
 
 🔜 **Coming soon (no ETA)**
 
-~~- Quick guide: Host your Full Stack Apps. (Heroku + Netlify)~~
+- ~~Quick guide: Host your Full Stack Apps. (Heroku + Netlify)~~
 - Quick guide: How to upload & host images? (React + Rails API)
    - Sub guide: Connect ActiveStorage to Cloud Services!
 - E-commerce prrof of concept!
