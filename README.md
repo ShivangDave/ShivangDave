@@ -23,6 +23,8 @@
 - Quick guide: How to upload & host images? (React + Rails API)
    - Sub guide: Connect ActiveStorage to Cloud Services!
 - E-commerce prrof of concept!
+   - React Frontend + Rails Backend + AWS Cloud Services
+   - React Frontend + NodeJS + MongoDB + GraphQL + AWS Cloud Services
 - AWS Cloud Practitioner Notes
 
 📚 **Learn & Share**
