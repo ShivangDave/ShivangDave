@@ -26,6 +26,7 @@
    - React Frontend + Rails Backend + AWS Cloud Services
    - React Frontend + NodeJS + MongoDB + GraphQL + AWS Cloud Services
 - AWS Cloud Practitioner Notes
+- Real time chat with React + ActionCable
 
 📚 **Learn & Share**
 - ⭐️🆕 [Hosting React App on Netlify] 
