@@ -16,8 +16,6 @@
 
 🔥 **Current**
 - [Programming with Elixir] (Huge thanks to: [Programming Elixir 1.6])
-- Quick guide: [How to Upload Images: React + Rails API]
-   - Sub guide: Connect ActiveStorage to Cloud Services!
 
 🔜 **Coming soon (no ETA)**
 
@@ -29,6 +27,7 @@
 - Real time chat with React + ActionCable
 
 📚 **Learn & Share**
+- ⭐️🆕 Quick guide: [How to Upload Images: React + Rails API]
 - ⭐️🆕 [Hosting React App on Netlify] 
 - ⭐️🆕 [Hosting Rails API on Heroku]
 - [Mini Lesson: Intro to Virtualization]
