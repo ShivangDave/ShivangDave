@@ -18,8 +18,6 @@
 - [Programming with Elixir] (Huge thanks to: [Programming Elixir 1.6])
 
 🔜 **Coming soon (no ETA)**
-
-- ~~Quick guide: Host your Full Stack Apps. (Heroku + Netlify)~~
 - E-commerce prrof of concept!
    - React Frontend + Rails Backend + AWS Cloud Services
    - React Frontend + NodeJS + MongoDB + GraphQL + AWS Cloud Services
