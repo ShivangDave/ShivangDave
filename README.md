@@ -25,7 +25,7 @@
 - Real time chat with React + ActionCable
 
 📚 **Learn & Share**
-- ⭐️🆕 Quick guide: [How to Upload Images: React + Rails API]
+- ⭐️🆕 [How to Upload Images: React + Rails API]
 - ⭐️🆕 [Hosting React App on Netlify] 
 - ⭐️🆕 [Hosting Rails API on Heroku]
 - [Mini Lesson: Intro to Virtualization]
@@ -34,6 +34,7 @@
 - [Learning Data Structures with Python]
 
 🍽 **Boiler Plate**
+- ⭐️🆕 [Rails API ActiveStorage + React Front End]
 - ⭐️🆕 [JWT Authentication integration with Rails API] 
 
 🌍 **Web Apps**
@@ -89,6 +90,7 @@
 [Hosting React App on Netlify]: https://github.com/ShivangDave/front-end-hosting
 [Hosting Rails API on Heroku]: https://github.com/ShivangDave/rails-backend-hosting
 [How to Upload Images: React + Rails API]: https://github.com/ShivangDave/hosting-images-rails-react
+[Rails API ActiveStorage + React Front End]: https://github.com/ShivangDave/hosting-images-rails-react
 
 <p align="center">
    <a href="https://shivangdave.com" target="_blank"> Website </a> | <a href="https://linkedin.com/in/dshivang" target="_blank"> LinkedIn </a> | <a href="https://twitter.com/@__Shivang__" target="_blank"> Twitter </a>
