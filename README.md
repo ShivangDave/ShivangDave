@@ -15,12 +15,14 @@
 ## 💻 Things I've worked on || Currently working on
 
 🔥 **Current**
+- ⭐️ Harry Potter themed E-commerce prrof of concept!
+   - [Front End](https://github.com/ShivangDave/diagon-alley-frontend-prototype)
+   - [Back End](https://github.com/ShivangDave/diagon-alley-backend)
+   - Soon: React Frontend + Rails Backend + AWS Cloud Services
+   - Soon after: React Frontend + NodeJS + MongoDB + GraphQL + AWS Cloud Services
 - [Programming with Elixir] (Huge thanks to: [Programming Elixir 1.6])
 
 🔜 **Coming soon (no ETA)**
-- E-commerce prrof of concept!
-   - React Frontend + Rails Backend + AWS Cloud Services
-   - React Frontend + NodeJS + MongoDB + GraphQL + AWS Cloud Services
 - AWS Cloud Practitioner Notes
 - Real time chat with React + ActionCable
 
