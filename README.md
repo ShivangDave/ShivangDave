@@ -15,7 +15,7 @@
 ## 💻 Things I've worked on || Currently working on
 
 🔥 **Current**
-- ⭐️ Harry Potter themed E-commerce prrof of concept!
+- ⭐️ Harry Potter themed E-commerce proof of concept!
    - [Front End](https://github.com/ShivangDave/diagon-alley-frontend-prototype)
    - [Back End](https://github.com/ShivangDave/diagon-alley-backend)
    - Soon: React Frontend + Rails Backend + AWS Cloud Services
