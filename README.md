@@ -17,7 +17,7 @@
 🔥 **Current**
 - ⭐️ Harry Potter themed E-commerce App (proof of concept)
    - [Front End](https://github.com/ShivangDave/diagon-alley-frontend-prototype)
-   - [Back End](https://github.com/ShivangDave/diagon-alley-backend)
+   - [Diagon Alley - Backend]
    - Soon: React Frontend + Rails Backend + AWS Cloud Services
    - Soon after: React Frontend + NodeJS + MongoDB + GraphQL + AWS Cloud Services
 - [Programming with Elixir] (Huge thanks to: [Programming Elixir 1.6])
@@ -93,6 +93,8 @@
 [Hosting Rails API on Heroku]: https://github.com/ShivangDave/rails-backend-hosting
 [How to Upload Images: React + Rails API]: https://github.com/ShivangDave/uploading-images-rails-react
 [Rails API ActiveStorage + React Front End]: https://github.com/ShivangDave/uploading-images-rails-react
+
+[Diagon Alley - Backend]: https://github.com/ShivangDave/diagon-alley-backend
 
 <p align="center">
    <a href="https://shivangdave.com" target="_blank"> Website </a> | <a href="https://linkedin.com/in/dshivang" target="_blank"> LinkedIn </a> | <a href="https://twitter.com/@__Shivang__" target="_blank"> Twitter </a>
