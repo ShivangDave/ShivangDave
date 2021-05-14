@@ -16,7 +16,7 @@
 
 🔥 **Current**
 - ⭐️ Harry Potter themed E-commerce App (proof of concept)
-   - [Front End](https://github.com/ShivangDave/diagon-alley-frontend-prototype)
+   - [Diagon Alley - Frontend]
    - [Diagon Alley - Backend]
    - Soon: React Frontend + Rails Backend + AWS Cloud Services
    - Soon after: React Frontend + NodeJS + MongoDB + GraphQL + AWS Cloud Services
@@ -94,6 +94,7 @@
 [How to Upload Images: React + Rails API]: https://github.com/ShivangDave/uploading-images-rails-react
 [Rails API ActiveStorage + React Front End]: https://github.com/ShivangDave/uploading-images-rails-react
 
+[Diagon Alley - Frontend]: https://github.com/ShivangDave/diagon-alley-frontend-prototype
 [Diagon Alley - Backend]: https://github.com/ShivangDave/diagon-alley-backend
 
 <p align="center">
