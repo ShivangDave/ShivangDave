@@ -37,7 +37,7 @@
 
 🍽 **Boiler Plate**
 - ⭐️🆕 [Rails API ActiveStorage + React Front End]
-- ⭐️🆕 [JWT Authentication integration with Rails API] 
+- [JWT Authentication integration with Rails API] 
 
 🌍 **Web Apps**
 - [E2EE Photoapp API] (Rails + Rspec + Docker + Travis CI + Heroku CD)
