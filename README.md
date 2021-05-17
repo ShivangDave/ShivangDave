@@ -27,7 +27,7 @@
 - Real time chat with React + ActionCable
 
 📚 **Learn & Share**
-- ⭐️🆕 [How to Upload Images: React + Rails API]
+- [How to Upload Images: React + Rails API]
 - ⭐️🆕 [Hosting React App on Netlify] 
 - ⭐️🆕 [Hosting Rails API on Heroku]
 - [Mini Lesson: Intro to Virtualization]
