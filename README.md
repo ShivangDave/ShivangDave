@@ -36,7 +36,7 @@
 - [Learning Data Structures with Python]
 
 🍽 **Boiler Plate**
-- ⭐️🆕 [Rails API ActiveStorage + React Front End]
+- [Rails API ActiveStorage + React Front End]
 - [JWT Authentication integration with Rails API] 
 
 🌍 **Web Apps**
