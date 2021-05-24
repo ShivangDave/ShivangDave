@@ -28,7 +28,7 @@
 
 📚 **Learn & Share**
 - [How to Upload Images: React + Rails API]
-- ⭐️🆕 [Hosting React App on Netlify] 
+- [Hosting React App on Netlify] 
 - [Hosting Rails API on Heroku]
 - [Mini Lesson: Intro to Virtualization]
 - [Mini Lesson: OOJS]
