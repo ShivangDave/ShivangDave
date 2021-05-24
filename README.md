@@ -15,7 +15,7 @@
 ## 💻 Things I've worked on || Currently working on
 
 🔥 **Current**
-- ⭐️ Harry Potter themed E-commerce App (proof of concept)
+- Harry Potter themed E-commerce App (proof of concept)
    - [Diagon Alley - Frontend]
    - [Diagon Alley - Backend]
    - Soon: React Frontend + Rails Backend + AWS Cloud Services
