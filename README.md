@@ -98,7 +98,7 @@
 [Diagon Alley - Backend]: https://github.com/ShivangDave/diagon-alley-backend
 
 <p align="center">
-   <a href="https://shivangdave.com" target="_blank"> Website </a> | <a href="https://linkedin.com/in/dshivang" target="_blank"> LinkedIn </a> | <a href="https://twitter.com/@__Shivang__" target="_blank"> Twitter </a>
+   <a href="https://shivangdave.com" target="_blank"> Website </a> | <a href="https://linkedin.com/in/dshivang" target="_blank"> LinkedIn </a> | <a href="https://twitter.com/@___Shivang___" target="_blank"> Twitter </a>
 </p>
 
 <p align="center">
