@@ -6,25 +6,9 @@
 
 👀 Software Engineer | Full Stack Web Developer | Mobile Apps Enthusiast | Educator
 
-🌱 I’m currently learning **[Programming with Elixir]**.
-
-💞️ I’m looking to collaborate on ***anything*** that helps people! 
-
 📫 mail@shivangdave.com
 
-## 💻 Things I've worked on || Currently working on
-
-🔥 **Current**
-- Harry Potter themed E-commerce App (proof of concept)
-   - [Diagon Alley - Frontend]
-   - [Diagon Alley - Backend]
-   - Soon: React Frontend + Rails Backend + AWS Cloud Services
-   - Soon after: React Frontend + NodeJS + MongoDB + GraphQL + AWS Cloud Services
-- [Programming with Elixir] (Huge thanks to: [Programming Elixir 1.6])
-
-🔜 **Coming soon (no ETA)**
-- AWS Cloud Practitioner Notes
-- Real time chat with React + ActionCable
+## 💻 Things I've worked on
 
 📚 **Learn & Share**
 - [How to Upload Images: React + Rails API]
